@@ -1,0 +1,16 @@
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\bin\Debug\net5.0\clases.exe
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\bin\Debug\net5.0\clases.deps.json
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\bin\Debug\net5.0\clases.runtimeconfig.json
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\bin\Debug\net5.0\clases.runtimeconfig.dev.json
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\bin\Debug\net5.0\clases.dll
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\bin\Debug\net5.0\ref\clases.dll
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\bin\Debug\net5.0\clases.pdb
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\obj\Debug\net5.0\clases.csproj.AssemblyReference.cache
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\obj\Debug\net5.0\clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\obj\Debug\net5.0\clases.AssemblyInfoInputs.cache
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\obj\Debug\net5.0\clases.AssemblyInfo.cs
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\obj\Debug\net5.0\clases.csproj.CoreCompileInputs.cache
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\obj\Debug\net5.0\clases.dll
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\obj\Debug\net5.0\ref\clases.dll
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\obj\Debug\net5.0\clases.pdb
+C:\Users\LUIS JIMENEZ\Desktop\progV\clases\obj\Debug\net5.0\clases.genruntimeconfig.cache
